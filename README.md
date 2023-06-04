@@ -1,1 +1,1 @@
-# spring-boot-playground
+# java-playground
