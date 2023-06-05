@@ -1,0 +1,29 @@
+### IntelliJ IDEA ###
+out/
+!src/packt.addressbook/main/main/**/out/
+!src/packt.addressbook/main/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!src/packt.addressbook/main/main/**/bin/
+!src/packt.addressbook/main/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
