@@ -36,3 +36,5 @@ build/
 application.properties
 mvnw
 mvnw.cmd
+
+.DS_Store
